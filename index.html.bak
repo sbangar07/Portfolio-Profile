@@ -47,6 +47,7 @@
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Sachin Bangar</a></h1>
+		<h6 style="text-align: center;><a href="index.html">Full-Stack Software Engineer</a></h6>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/SachinB42332681" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.facebook.com/sbangar07" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -365,7 +366,7 @@ technical documents,specifications and test plans.</li>
 
         <!-- <div class="section-title"> -->
           <!-- <h2>Portfolio</h2> -->
-          <!-- <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> --> -->
+          <!-- <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> --> 
         <!-- </div> -->
 
         <!-- <div class="row" data-aos="fade-up"> -->
