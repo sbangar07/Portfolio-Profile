@@ -47,7 +47,7 @@
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Sachin Bangar</a></h1>
-		<h6 style="text-align: center;><a href="index.html">Full-Stack Software Engineer</a></h6>
+		<h6 style="text-align: center;"><a href="index.html">Full-Stack Software Engineer</a></h6>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/SachinB42332681" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.facebook.com/sbangar07" class="facebook"><i class="bx bxl-facebook"></i></a>
