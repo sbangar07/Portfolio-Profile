@@ -41,18 +41,19 @@
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
   <!-- ======= Header ======= -->
-  <header id="header">
+   <header id="header">
     <div class="d-flex flex-column">
 
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Sachin Bangar</a></h1>
         <div class="social-links mt-3 text-center">
+         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/SachinB42332681" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.facebook.com/sbangar07" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="https://www.instagram.com/sachin.bangar07/" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="https://www.linkedin.com/in/sachin-bangar-a8008371/" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/sachin-bangar-a8008371/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        </div>
         </div>
       </div>
 
@@ -92,15 +93,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-1.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-11.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-2.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-11.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-3.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-11.jpg" alt="">
                 </div>
 
               </div>
@@ -112,25 +113,16 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Web Application</li>
-                <li><strong>Client</strong>: NEC  (colchester, south hams)</li>
-                <li><strong>Project date</strong>: 06 June, 2019 to Current Date</li>
-                <li><strong>Project URL</strong>: <a href="#">https://www.necsws.com/environment-and-planning-software</a></li>
+                <li><strong>Category</strong>: Web Application & Services</li>
+                <li><strong>Client</strong>: Morningstar </li>
+                <li><strong>Project date</strong>: 26 Oct, 2015 to 03 June, 2019</li>
+                <li><strong>Project URL</strong>: <a href="https://www.morningstar.in/">https://www.morningstar.in/</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>ENVIRONMENT AND PLANNING & LICENSING SOFTWARE</h2>
+              <h2>GPCA & Execomp</h2>
               <p>
-                ASSURE Licensing makes everything you do more efficient. Firstly, it streamlines the application process for all premise, people and vehicle licenses. Then it also manages renewals and notifies statutory consultees automatically. As a result, it can cut the amount of effort per licence by as much as 40%. 
-				<br/>
-				
-				Environment planning details
-				-Build online forms in minutes and switch them on in one click <br/>
-				-Use simple integration to cut hundreds of hours of admin <br/>
-				-Mark-up documents online and share links by email <br/>
-				-Use live OS MasterMap to speed up tasks and improve self-service <br/>
-				-Cut print, post and processing costs and streamline reporting
-				
+                Morningstar is basically collecting the raw data of different corporate actions which are happening in global market to process it.Corporate actions include stock splits, dividends, mergers and acquisitions, rights issues and spin-offs.Also it is collect the data for Equity market data for the US market.
               </p>
             </div>
           </div>
